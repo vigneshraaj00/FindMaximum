@@ -41,8 +41,6 @@ def max_marks(list1):
         if i>94:
             return i
 ```
-## Sample Input and Output
-![output](./img/max_marks1.jpg) 
 
 ## Output:
 ![Screenshot 2023-11-29 222129](https://github.com/vigneshraaj00/FindMaximum/assets/138849113/c8f5b7f4-1583-4cbc-b0e6-817ba9decf52)
